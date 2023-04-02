@@ -1,0 +1,7 @@
+*.o
+*~
+*#
+vgcore*
+.vscode/
+.vscode/*
+a.out
